@@ -1,4 +1,4 @@
-* Visual Studio SCode theme *
+** Visual Studio SCode theme *
 # dark max
 
 This theme is a more contrasted version of the default dark/dark+ theme ...with a few other cool tweaks ◼🌈
