@@ -9,7 +9,7 @@
         "url": "https://github.com/MaximeVerdy/vs-code-theme-dark-max"
     },
     "keywords": [
-        "theme", "dark theme", "Maxime Verdy", "dark max", "vscode theme", "contrasted colors", "contrast", "popping off colors", "colored comments", 
+        "theme", "dark theme", "Maxime Verdy", "darker", "darker theme", "dark max", "vscode theme", "contrasted colors", "contrast", "popping off colors", "colored comments", "comment color"
     ],
     "engines": {
         "vscode": "^1.63.0"
