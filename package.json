@@ -1,0 +1,21 @@
+{
+    "name": "dark-max",
+    "displayName": "dark max",
+    "description": "the classic theme Dark but darker with a little upgrage on the comments colors in JS",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark max",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark max-color-theme.json"
+            }
+        ]
+    }
+}
