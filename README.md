@@ -1,23 +1,13 @@
-# README
-## This is the README for your extension "dark-max"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# dark max
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is a more contrasted version of the default dark/dark+ theme ...with a few other cool tweaks ◼🌈
+*
+darker background
+colors popping off a little bit more
+more colors for comments in JS files
+*
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-
-# Darker Dark+
-
-It's pretty self explanatory, this theme is a darker version of Dark+
-...with a few other cool tweaks 😎
-
-I love the default Dark+ theme, but I thought it would be better if it was darker, it's too bright for my liking, made this theme so people who feel the same way can easily get it.
+The default Dark+ theme is my favorite but I needed to find my way around my code better 🤓. This is how this theme was born...
 
 ## Screenshot
 ![screenshot](./screenshot.jpg)
