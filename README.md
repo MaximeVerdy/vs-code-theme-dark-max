@@ -3,7 +3,7 @@
 ###
 ###
 ###
-This theme is a more contrasted version of the default dark/dark+ theme ...with a few other cool tweaks ◼🌈
+This theme is a more contrasted version of the default dark+ theme ...with a few other cool tweaks ◼🌈
 * *darker background*
 * *colors popping off a little bit more*
 * *more colors for comments in JS files*
