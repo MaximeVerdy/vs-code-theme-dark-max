@@ -1,6 +1,8 @@
 # dark max
 *a Visual Studio Code theme*
 
+
+
 This theme is a more contrasted version of the default dark/dark+ theme ...with a few other cool tweaks ◼🌈
 * *darker background*
 * *colors popping off a little bit more*
