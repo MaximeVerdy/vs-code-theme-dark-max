@@ -1,7 +1,7 @@
 {
     "name": "dark-max",
     "displayName": "Dark max",
-    "icon": "./icon.jpg",
+    "icon": "icon.jpg",
     "description": "VSCode theme based on the default Dark+ theme. This version has more contrast : darker background, colors popping off a little bit more, more colors available for the comments in JS files",
     "version": "1.2.0",
     "publisher": "MaximeVerdy",
