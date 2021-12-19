@@ -1,6 +1,7 @@
 {
     "name": "dark-max",
-    "displayName": "dark max",
+    "displayName": "Dark max",
+    "icon": "./icon.jpg",
     "description": "VSCode theme based on the default Dark+ theme. This version has more contrast : darker background, colors popping off a little bit more, more colors available for the comments in JS files",
     "version": "1.0.0",
     "publisher": "MaximeVerdy",
@@ -20,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "dark max",
+                "label": "Dark max",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark max-color-theme.json"
             }
