@@ -1,4 +1,4 @@
-# dark max
+# Dark max
 *a Visual Studio Code theme*
 ###
 ###
