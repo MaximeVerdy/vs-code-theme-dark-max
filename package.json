@@ -2,7 +2,7 @@
     "name": "dark-max",
     "displayName": "Dark max",
     "icon": "icon.jpg",
-    "description": "The default Dark+ theme with more contrast: darker background, colors popping off a little bit more, more colors available for the comments in JS files",
+    "description": "The default Dark+ theme, more contrasted, more minimalist",
     "version": "1.4.0",
     "publisher": "MaximeVerdy",
     "repository": {
