@@ -3,7 +3,7 @@
     "displayName": "Dark max",
     "icon": "icon.jpg",
     "description": "The default Dark+ VScode theme, more contrasted, more minimalist, with a better comments system",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "publisher": "MaximeVerdy",
     "repository": {
         "type": "git",
