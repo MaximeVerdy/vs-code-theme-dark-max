@@ -3,14 +3,25 @@
     "displayName": "Dark max",
     "icon": "./icon.jpg",
     "description": "VSCode theme based on the default Dark+ theme. This version has more contrast : darker background, colors popping off a little bit more, more colors available for the comments in JS files",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "MaximeVerdy",
     "repository": {
         "type": "git",
         "url": "https://github.com/MaximeVerdy/vs-code-theme-dark-max"
     },
     "keywords": [
-        "theme", "dark theme", "Maxime Verdy", "darker", "darker theme", "dark max", "vscode theme", "contrasted colors", "contrast", "popping off colors", "colored comments", "comment color"
+        "theme",
+        "dark theme",
+        "Maxime Verdy",
+        "darker",
+        "darker theme",
+        "dark max",
+        "vscode theme",
+        "contrasted colors",
+        "contrast",
+        "popping off colors",
+        "colored comments",
+        "comment color"
     ],
     "engines": {
         "vscode": "^1.63.0"
