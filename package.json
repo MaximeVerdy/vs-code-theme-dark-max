@@ -2,7 +2,7 @@
     "name": "dark-max",
     "displayName": "Dark max",
     "icon": "icon.jpg",
-    "description": "The default Dark+ VScode theme, more contrasted, more minimalist, with a better comments system",
+    "description": "The default Dark+ theme, more contrasted, more minimalist, with a better comment colors system",
     "version": "1.5.0",
     "publisher": "MaximeVerdy",
     "repository": {
